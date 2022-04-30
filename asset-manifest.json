@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ReactDadJokes/static/css/main.38be36b0.css",
-    "main.js": "/ReactDadJokes/static/js/main.a399d568.js",
+    "main.js": "/ReactDadJokes/static/js/main.c8c5551a.js",
     "static/js/787.82dc9301.chunk.js": "/ReactDadJokes/static/js/787.82dc9301.chunk.js",
     "index.html": "/ReactDadJokes/index.html",
     "main.38be36b0.css.map": "/ReactDadJokes/static/css/main.38be36b0.css.map",
-    "main.a399d568.js.map": "/ReactDadJokes/static/js/main.a399d568.js.map",
+    "main.c8c5551a.js.map": "/ReactDadJokes/static/js/main.c8c5551a.js.map",
     "787.82dc9301.chunk.js.map": "/ReactDadJokes/static/js/787.82dc9301.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.38be36b0.css",
-    "static/js/main.a399d568.js"
+    "static/js/main.c8c5551a.js"
   ]
 }
